@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saisri2007/Leetcode/tree/master/0229-majority-element-ii) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Saisri2007/Leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
