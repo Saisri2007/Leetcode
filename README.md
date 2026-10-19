@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saisri2007/Leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Saisri2007/Leetcode/tree/master/0283-move-zeroes) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saisri2007/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Saisri2007/Leetcode/tree/master/0263-ugly-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Saisri2007/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
