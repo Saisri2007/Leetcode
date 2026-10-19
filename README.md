@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saisri2007/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Saisri2007/Leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
